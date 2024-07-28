@@ -40,3 +40,8 @@ what I've learned to help drive data-driven decisions and make a real impact in 
 ## 🛠 Skills
 Python , SQL , PowerBI , Tableau , Statistic , Machine Learning, Excel
 
+![Screenshot 2024-06-29 005953](https://github.com/user-attachments/assets/744b246e-9ac5-4eed-8e7e-c9eb6506073b)
+![Screenshot 2024-06-29 010029](https://github.com/user-attachments/assets/2e6e0d10-f4aa-42e3-b243-b26ccdc52c74)
+![Screenshot 2024-06-29 010041](https://github.com/user-attachments/assets/eea97479-9dbf-48b8-b2d4-3fad5e29c03f)
+![Screenshot 2024-06-29 010108](https://github.com/user-attachments/assets/1fb6f382-2d3e-4b9e-8e5b-272ea9475afc)
+![Screenshot 2024-06-29 010806](https://github.com/user-attachments/assets/409030f0-1ba3-4c48-a823-0eab7a91f2bd)
